@@ -1,125 +1,141 @@
-<!-- ========================= HERO BANNER ========================= -->
+<!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img src="YOUR-BANNER-IMAGE-URL-HERE" alt="Mahmoud Ahmed Banner" width="100%" />
+  <img src="[YOUR_BANNER_URL_HERE](https://www.genspark.ai/api/files/s/ZRwUXVrr)" alt="Mahmoud Ahmed Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Mahmoud Ahmed 👋</h1>
+<h1 align="center">Mahmoud Ahmed</h1>
 <h3 align="center">Data Analyst | Power BI | SQL | Python | Excel</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-ahmed-192630292/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ma3549681@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-ma3549681%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/MahmoudAhmed150">
-    <img src="https://img.shields.io/badge/GitHub-MahmoudAhmed150-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-MahmoudAhmed150-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Turning+data+into+clear+business+insights;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Building+interactive+dashboards+and+data-driven+solutions" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science & Artificial Intelligence undergraduate at **Cairo University**
-- 📊 Aspiring **Data Analyst** with hands-on experience in **Power BI, SQL, Excel, and Python**
-- 📈 Passionate about turning raw data into clear dashboards and business insights
-- 🧠 Interested in **Business Intelligence, Data Visualization, KPI Tracking, and Data Storytelling**
-- 🚀 Currently building projects that solve real-world business problems using data
+I’m **Mahmoud Ahmed**, a **Data Analyst** and **Computer Science & Artificial Intelligence undergraduate** at **Cairo University**.  
+I’m passionate about transforming raw data into meaningful dashboards, KPIs, and business insights using **Power BI, SQL, Excel, and Python**.
+
+- 🎓 CS & AI student at **Cairo University**
+- 📊 Focused on **Data Analysis** and **Business Intelligence**
+- 🧠 Interested in **data storytelling, dashboard design, and KPI tracking**
+- 🚀 Building projects that solve real-world analytical problems
 
 ---
 
-## 💼 Experience & Leadership
+## 💼 Experience
 
-### Microsoft Power BI Specialist Track Trainee — DEPI
+### **Microsoft Power BI Specialist Track Trainee — DEPI**
 **Jun 2025 – Dec 2025**
-- Completed intensive training in **data analysis, BI, and visualization**
+- Completed intensive training in **data analysis, business intelligence, and visualization**
 - Worked with **Power BI, Excel, Tableau, Power Query, and DAX**
-- Built dashboards, reports, and data models using **star schema design**
+- Built dashboards and reports using **star schema design** and data modeling
 
-### Team Leader — DEPI
-- Led a student team and coordinated task distribution
-- Provided technical guidance in Power BI
-- Helped ensure timely delivery of project work
+### **Team Leader — DEPI**
+- Coordinated team tasks and workflow
+- Supported teammates technically in Power BI
+- Helped ensure timely project delivery
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### Data Analysis & BI
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_Query-2F855A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DAX-0F62FE?style=for-the-badge"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,github" />
 </p>
 
-### Programming & Databases
-<p>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
-</p>
-
-### Data Skills
-<p>
-  <img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Modeling-1E88E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Star_Schema-5E35B1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/KPIs-F4511E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Storytelling-00897B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Statistics-6D4C41?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Query-2F855A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DAX-1E3A8A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 📊 Core Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Cleaning-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Modeling-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Star_Schema-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dashboard_Design-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/KPI_Tracking-EF4444?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Storytelling-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Statistics-6B7280?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem_Solving-F59E0B?style=flat-square" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🚗 US Accidents Analysis (2016–2023)
-- Analyzed over 7 years of accident data to uncover patterns in severity, road conditions, and environmental factors
-- Built a **star schema model**, created **DAX measures**, and developed an interactive **Power BI dashboard**
-- Tools: **Power BI, SQL, Python, Power Query**
+- Analyzed over 7 years of traffic accident data
+- Built a **star schema model**
+- Created **DAX measures** and interactive dashboards
+- Delivered insights on severity, environmental factors, and road conditions
 
-🔗 Repo: [DEPI-Graduation-Project-US-Accidents-2016-2023](https://github.com/MahmoudAhmed150/DEPI-Graduation-Project-US-Accidents-2016-2023)
+🔗 [View Repository](https://github.com/MahmoudAhmed150/DEPI-Graduation-Project-US-Accidents-2016-2023)
+
+---
 
 ### 🛡️ Car Insurance Company System
-- Designed an **ERD** with 6+ business entities
+- Designed an **ERD** with 6+ entities
 - Built a normalized relational database (**3NF**) with 8+ tables
-- Developed a **C# GUI application** for CRUD operations with validation
+- Developed a **C# GUI** for CRUD operations
 - Reduced redundant data entry by approximately **40%**
 
-🔗 Repo: [Car-Insurance-System](https://github.com/MahmoudAhmed150/Car-Insurance-System)
+🔗 [View Repository](https://github.com/MahmoudAhmed150/Car-Insurance-System)
+
+---
 
 ### 🛒 Market Data Analysis
-- Conducted a data analysis project to evaluate **market trends** and **customer behavior** for a retail chain
+- Analyzed market trends and customer behavior for a retail chain
 
-🔗 Repo: [Market-Data-Analysis](https://github.com/MahmoudAhmed150/Market-Data-Analysis)
+🔗 [View Repository](https://github.com/MahmoudAhmed150/Market-Data-Analysis)
+
+---
 
 ### 💊 Pharma Sales Analysis
-- Explored pharmaceutical sales data to identify patterns and support data-driven insights
+- Explored pharmaceutical sales patterns to support data-driven decisions
 
-🔗 Repo: [Pharma-sales-analysis](https://github.com/MahmoudAhmed150/Pharma-sales-analysis)
+🔗 [View Repository](https://github.com/MahmoudAhmed150/Pharma-sales-analysis)
 
 ---
 
 ## 🏆 Highlights
 
-- 📊 Microsoft Power BI Specialist Track Trainee at **DEPI**
-- 👨‍🏫 Team Leader with experience in technical guidance and task coordination
-- 🚦 Built dashboards and analytics solutions from raw data to insight
-- 🗃️ Strong foundation in databases, SQL, and normalization
-- 🎯 Focused on delivering business value through data storytelling
+- 📌 Data Analyst with practical experience in **Power BI, SQL, Excel, and Python**
+- 🎓 CS & AI undergraduate at **Cairo University**
+- 👨‍🏫 Team Leader in **DEPI**
+- 📈 Passionate about building analytical dashboards and BI solutions
+- 🧩 Strong interest in solving real-world business problems using data
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudAhmed150&show_icons=true&theme=transparent" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmed150&layout=compact&theme=transparent" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudAhmed150&show_icons=true&theme=transparent&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAhmed150&layout=compact&theme=transparent&hide_border=false" height="170" />
 </p>
 
 <p align="center">
@@ -132,15 +148,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-ahmed-192630292/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Ahmed-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:ma3549681@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ma3549681%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Send_Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Turning data into decisions 📊</i>
+  <b>Transforming Data into Actionable Insights 📊</b>
 </p>
