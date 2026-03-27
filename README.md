@@ -131,13 +131,14 @@ I enjoy transforming raw data into meaningful dashboards, KPIs, and clear busine
 ---
 
 📈 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahmoudAhmed150&show_icons=true&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahmoudAhmed150&show_icons=true&theme=dark&hide_border=true" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MahmoudAhmed150&layout=compact&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MahmoudAhmed150&layout=compact&theme=dark&hide_border=true" height="170" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAhmed150&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAhmed150&theme=dark&hide_border=true" />
 </p>
 
 ---
