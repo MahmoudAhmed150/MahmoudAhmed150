@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.genspark.ai/api/files/s/3fO0Qkv2?cache_control=3600" alt="Mahmoud Ahmed Banner" width="100%" />
+  <img src="./assets/banner.png" alt="Mahmoud Ahmed Banner" width="100%" />
 </p>
 
 <h1 align="center">Mahmoud Ahmed</h1>
