@@ -18,10 +18,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MahmoudAhmed150&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=760&lines=Transforming+Data+into+Actionable+Insights;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Building+interactive+dashboards+and+data-driven+solutions" alt="Typing SVG" />
 </p>
 
@@ -32,10 +28,10 @@
 I'm **Mahmoud Ahmed**, a **Data Analyst** and a **Computer Science & Artificial Intelligence undergraduate** at **Cairo University**.  
 I enjoy transforming raw data into meaningful dashboards, KPIs, and clear business insights using **Power BI, SQL, Excel, and Python**.
 
-- 🎓 CS & AI student at **Cairo University**
-- 📊 Aspiring **Data Analyst** with strong interest in **Business Intelligence**
-- 🧠 Passionate about **data storytelling**, **dashboard design**, and **KPI tracking**
-- 🚀 Building practical projects that solve real-world analytical problems
+* 🎓 CS & AI student at **Cairo University**
+* 📊 Aspiring **Data Analyst** with strong interest in **Business Intelligence**
+* 🧠 Passionate about **data storytelling**, **dashboard design**, and **KPI tracking**
+* 🚀 Building practical projects that solve real-world analytical problems
 
 ---
 
@@ -43,14 +39,14 @@ I enjoy transforming raw data into meaningful dashboards, KPIs, and clear busine
 
 ### Microsoft Power BI Specialist Track Trainee — DEPI
 **Jun 2025 – Dec 2025**
-- Completed intensive training in **data analysis, business intelligence, and visualization**
-- Worked with **Power BI, Excel, Tableau, Power Query, and DAX**
-- Built dashboards and reports using **star schema design** and data modeling
+* Completed intensive training in **data analysis, business intelligence, and visualization**
+* Worked with **Power BI, Excel, Tableau, Power Query, and DAX**
+* Built dashboards and reports using **star schema design** and data modeling
 
 ### Team Leader — DEPI
-- Coordinated team tasks and workflow
-- Provided technical support in Power BI
-- Helped ensure timely project delivery
+* Coordinated team tasks and workflow
+* Provided technical support in Power BI
+* Helped ensure timely project delivery
 
 ---
 
@@ -75,15 +71,15 @@ I enjoy transforming raw data into meaningful dashboards, KPIs, and clear busine
 ## 📊 Core Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Cleaning-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data_Modeling-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Star_Schema-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dashboard_Design-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/KPI_Tracking-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data_Storytelling-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Statistics-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Problem_Solving-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Analytical_Thinking-0e75b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Cleaning-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Modeling-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Star_Schema-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dashboard_Design-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/KPI_Tracking-EF4444?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Storytelling-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Statistics-6B7280?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem_Solving-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Analytical_Thinking-1D4ED8?style=flat-square" />
 </p>
 
 ---
@@ -91,34 +87,34 @@ I enjoy transforming raw data into meaningful dashboards, KPIs, and clear busine
 ## 🚀 Featured Projects
 
 ### 🚗 US Accidents Analysis (2016–2023)
-- Analyzed over 7 years of traffic accident data
-- Built a **star schema model**
-- Created **DAX measures** and interactive dashboards
-- Delivered insights on severity, environmental factors, and road conditions
+* Analyzed over 7 years of traffic accident data
+* Built a **star schema model**
+* Created **DAX measures** and interactive dashboards
+* Delivered insights on severity, environmental factors, and road conditions
 
 🔗 [View Repository](https://github.com/MahmoudAhmed150/DEPI-Graduation-Project-US-Accidents-2016-2023)
 
 ---
 
 ### 🛡️ Car Insurance Company System
-- Designed an **ERD** with 6+ entities
-- Built a normalized relational database (**3NF**) with 8+ tables
-- Developed a **C# GUI** for CRUD operations
-- Reduced redundant data entry by approximately **40%**
+* Designed an **ERD** with 6+ entities
+* Built a normalized relational database (**3NF**) with 8+ tables
+* Developed a **C# GUI** for CRUD operations
+* Reduced redundant data entry by approximately **40%**
 
 🔗 [View Repository](https://github.com/MahmoudAhmed150/Car-Insurance-System)
 
 ---
 
 ### 🛒 Market Data Analysis
-- Analyzed market trends and customer behavior for a retail chain
+* Analyzed market trends and customer behavior for a retail chain
 
 🔗 [View Repository](https://github.com/MahmoudAhmed150/Market-Data-Analysis)
 
 ---
 
 ### 💊 Pharma Sales Analysis
-- Explored pharmaceutical sales patterns to support data-driven decisions
+* Explored pharmaceutical sales patterns to support data-driven decisions
 
 🔗 [View Repository](https://github.com/MahmoudAhmed150/Pharma-sales-analysis)
 
@@ -126,23 +122,11 @@ I enjoy transforming raw data into meaningful dashboards, KPIs, and clear busine
 
 ## 🏆 Highlights
 
-- 📌 Data Analyst with hands-on experience in **Power BI, SQL, Excel, and Python**
-- 🎓 CS & AI undergraduate at **Cairo University**
-- 👨‍🏫 Team Leader in **DEPI**
-- 📈 Passionate about building dashboards and BI solutions
-- 🧩 Focused on solving real-world business problems using data
-
----
-
-## 🏅 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Power_BI_Specialist-DEPI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
-  <img src="https://img.shields.io/badge/Team_Leader_Recognition-DEPI-0e75b6?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
-- 📊 **Microsoft Power BI Specialist Track Certificate** — Digital Egypt Pioneers Initiative (DEPI)
-- 🏆 **Team Leader Recognition Certificate** — Digital Egypt Pioneers Initiative (DEPI)
+* 📌 Data Analyst with hands-on experience in **Power BI, SQL, Excel, and Python**
+* 🎓 CS & AI undergraduate at **Cairo University**
+* 👨‍🏫 Team Leader in **DEPI**
+* 📈 Passionate about building dashboards and BI solutions
+* 🧩 Focused on solving real-world business problems using data
 
 ---
 
@@ -153,13 +137,8 @@ I enjoy transforming raw data into meaningful dashboards, KPIs, and clear busine
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MahmoudAhmed150&layout=compact&theme=dark&hide_border=true" height="170" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAhmed150&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudAhmed150&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
