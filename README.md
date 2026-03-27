@@ -18,6 +18,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MahmoudAhmed150&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=760&lines=Transforming+Data+into+Actionable+Insights;Power+BI+%7C+SQL+%7C+Python+%7C+Excel;Building+interactive+dashboards+and+data-driven+solutions" alt="Typing SVG" />
 </p>
 
@@ -71,15 +75,15 @@ I enjoy transforming raw data into meaningful dashboards, KPIs, and clear busine
 ## 📊 Core Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Cleaning-16A34A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data_Modeling-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Star_Schema-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dashboard_Design-0891B2?style=flat-square" />
-  <img src="https://img.shields.io/badge/KPI_Tracking-EF4444?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data_Storytelling-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Statistics-6B7280?style=flat-square" />
-  <img src="https://img.shields.io/badge/Problem_Solving-F59E0B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Analytical_Thinking-1D4ED8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Cleaning-0e75b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Modeling-0e75b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Star_Schema-0e75b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dashboard_Design-0e75b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/KPI_Tracking-0e75b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Storytelling-0e75b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Statistics-0e75b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem_Solving-0e75b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Analytical_Thinking-0e75b6?style=flat-square" />
 </p>
 
 ---
@@ -130,15 +134,32 @@ I enjoy transforming raw data into meaningful dashboards, KPIs, and clear busine
 
 ---
 
-📈 GitHub Analytics
+## 🏅 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Power_BI_Specialist-DEPI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
+  <img src="https://img.shields.io/badge/Team_Leader_Recognition-DEPI-0e75b6?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+- 📊 **Microsoft Power BI Specialist Track Certificate** — Digital Egypt Pioneers Initiative (DEPI)
+- 🏆 **Team Leader Recognition Certificate** — Digital Egypt Pioneers Initiative (DEPI)
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahmoudAhmed150&show_icons=true&theme=dark&hide_border=true" height="170" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MahmoudAhmed150&layout=compact&theme=dark&hide_border=true" height="170" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAhmed150&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudAhmed150&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
