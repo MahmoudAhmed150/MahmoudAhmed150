@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Mahmoud Ahmed Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/MahmoudAhmed150/MahmoudAhmed150/a8eada0c9d0ea49f6b7e171bd0cb75d567b91ae0/assets/banner.png" alt="Mahmoud Ahmed Banner" width="100%" />
 </p>
 
 <h1 align="center">Mahmoud Ahmed</h1>
